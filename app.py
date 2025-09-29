@@ -15,9 +15,9 @@ import base64
 import threading
 
 # Email Configuration
-EMAIL = "Namanchopra156@gmail.com"
+EMAIL = ""
 PASSWORD = ""
-TO_EMAIL = "Namanchopra156@gmail.com"    
+TO_EMAIL = ""    
 
 # Flask app setup
 app = Flask(__name__)
