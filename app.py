@@ -16,7 +16,7 @@ import threading
 
 # Email Configuration
 EMAIL = "Namanchopra156@gmail.com"
-PASSWORD = "spdd abjt nvvo fvuj"
+PASSWORD = ""
 TO_EMAIL = "Namanchopra156@gmail.com"    
 
 # Flask app setup
